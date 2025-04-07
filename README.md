@@ -12,17 +12,17 @@ My learning is hands-on, and I’ve built several projects that reflect my curio
 
 ---
 
-### 🗣️ SpanishAI – Language Learning with AI  
+### SpanishAI – Language Learning with AI  
 A React Native mobile app that gives users real-time conversational practice with OpenAI language models. Users can record audio, which is preprocessed on the frontend and sent to a custom Node.js backend. The backend interfaces with the OpenAI API and returns a response, which is then played back to the user. The goal: immersive, dynamic practice for foreign language learners.
 
 ---
 
-### 🥋 AdventureBJJ – Gamifying Brazilian Jiu Jitsu  
+### AdventureBJJ – Gamifying Brazilian Jiu Jitsu  
 This Django-based web app aims to connect BJJ practitioners through friendly competition. Inspired by the *Pokémon* games, each gym acts like a "gym leader" location where users can challenge others and log their outcomes. The app also lets users track skill development over time and provides gyms with insights into athlete performance trends and areas for growth.
 
 ---
 
-### 🚗 Muscle Car Identifier – Computer Vision in Action  
+### Muscle Car Identifier – Computer Vision in Action  
 After completing Jeremy Howard’s *fastai* course, I built a computer vision model to classify muscle cars from images—specifically Mustangs, Camaros, and Challengers (2015–2024). I explored extending the model to include vehicles from the 1960s onward and experimented with two architectures:
 - A single model handling both car type and year  
 - A two-model pipeline: one for estimating the decade, the other for identifying make/model  
@@ -30,14 +30,15 @@ The latter ran into challenges due to significant visual differences between vin
 
 ---
 
-### 🧠 Academic Background  
+### Academic Background  
 
 At the University of Michigan, while pursuing a degree in Aerospace Engineering, I also studied computer science:
 
 - **EECS 183**: Introduction to Computing (C++)  
 - **EECS 280**: Data Structures and Algorithms (C++)  
-- **AERO 483**: Computational Methods in Aerospace Engineering (MATLAB)  
+- **AERO 423**: Computational Methods in Aerospace Engineering (MATLAB)  
     - Covered finite element analysis, differential equation solvers, finite volumes, probabilistic methods, and numerical simulation
+- In addition, extensive use of MATLAB for everyday homework assignments for many other courses. 
 
 Notable projects from these courses include:
 - A playable implementation of **Euchre**
