@@ -1,16 +1,54 @@
-## Hi there, I'm Ben Firstenberg
+## 👋 Hi, I'm Ben Firstenberg
 
-I'm currently working on Coding Fundamentals.
-I want to make myself a better engineer by formally studying framework documentations, data structures and algorithms, in depth tutorials and deployments to cloud services. 
+I'm currently focused on deepening my understanding of core programming principles, with an emphasis on:
 
-In the past, I've launched headfirst into projects such as my SpanishAI react native app, which aimed to leverage OpenAI language models to give users real world, real time practice for the foreign language they were studying. Users could record audio, then the front end react native app would preprocess the recording, send it to a Node.js backend I wrote and deployed, call OpenAI's API, get a response and then play it for the user. 
+- Software engineering fundamentals  
+- Data structures and algorithms  
+- Framework documentation  
+- In-depth tutorials and deployment practices  
+- Cloud services and DevOps fundamentals  
 
-Another project was my AdventureBJJ app, which is aiming to connect Brazilian Jiu Jitsu players through friendly competition. Borrowing the idea from Pokemon games from the late 2000s, I thought each real life Jiu Jitsu gym could act like a Pokemon Gym. Users could visit and challenge locals to friendly sparring sessions and record the winners. Users could also track skill development by logging skills successfully used during challenges. This would game-ify the sport, encourage people from different locations to connect, and give gyms real time data about the performance of their athletes and their strengths and weaknesses. I am primarily making this app in Python Django. 
+My learning is hands-on, and I’ve built several projects that reflect my curiosity and evolving skill set:
 
-One last project to highlight was my Muscle Car Identifier. After taking Jeremy Howard's "FastAI" course, I built a basic computer vision model to identify whether an image was of a 2015-2024 Mustang, Camaro or Challenger. I had hoped to extend the model to include cars from 1960-2024. I had also hoped to compare model performance from two different setups: one with one large model to handle all the features and a second with two smaller models: one to identify the approximate age and one to identify the car type. I ran into trouble though, I suspect because 1960s cars are too distinct from modern day cars to provide any real comparison. 
+---
 
-As you can see, my experience to date has skewed towards projects. In addition, I took EECS 183: Introduction to Computing and EECS 280: Data Structures and Algorithms at the University of Michigan while purusing my Aerospace Engineering degree. In addition to those two C++ courses, I took AERO 483: Computational Methods of Aerospace Engineering, a MATLAB based course that taught methods such as Finite Element Analysis, time integration of differential equations, finite volumes, probabilistic methods and simulations. From those three courses, notable projects included: Euchre, Seam Carving Algorithm and Machine Learning with Binary Search Trees. Those repositories are public on my profile. 
+### 🗣️ SpanishAI – Language Learning with AI  
+A React Native mobile app that gives users real-time conversational practice with OpenAI language models. Users can record audio, which is preprocessed on the frontend and sent to a custom Node.js backend. The backend interfaces with the OpenAI API and returns a response, which is then played back to the user. The goal: immersive, dynamic practice for foreign language learners.
 
+---
+
+### 🥋 AdventureBJJ – Gamifying Brazilian Jiu Jitsu  
+This Django-based web app aims to connect BJJ practitioners through friendly competition. Inspired by the *Pokémon* games, each gym acts like a "gym leader" location where users can challenge others and log their outcomes. The app also lets users track skill development over time and provides gyms with insights into athlete performance trends and areas for growth.
+
+---
+
+### 🚗 Muscle Car Identifier – Computer Vision in Action  
+After completing Jeremy Howard’s *fastai* course, I built a computer vision model to classify muscle cars from images—specifically Mustangs, Camaros, and Challengers (2015–2024). I explored extending the model to include vehicles from the 1960s onward and experimented with two architectures:
+- A single model handling both car type and year  
+- A two-model pipeline: one for estimating the decade, the other for identifying make/model  
+The latter ran into challenges due to significant visual differences between vintage and modern designs—an interesting lesson in dataset selection and model generalization.
+
+---
+
+### 🧠 Academic Background  
+
+At the University of Michigan, while pursuing a degree in Aerospace Engineering, I also studied computer science:
+
+- **EECS 183**: Introduction to Computing (C++)  
+- **EECS 280**: Data Structures and Algorithms (C++)  
+- **AERO 483**: Computational Methods in Aerospace Engineering (MATLAB)  
+    - Covered finite element analysis, differential equation solvers, finite volumes, probabilistic methods, and numerical simulation
+
+Notable projects from these courses include:
+- A playable implementation of **Euchre**
+- A **Seam Carving** algorithm for intelligent image resizing  
+- A **Machine Learning** classifier using binary search trees
+
+You can find these and more in my public repositories.
+
+---
+
+Thanks for visiting! I'm always learning and looking for opportunities to collaborate or grow. Feel free to explore my work or reach out.
 
 
 
