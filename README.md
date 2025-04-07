@@ -1,4 +1,4 @@
-##  Hi, I'm Ben Firstenberg, this page details my software engineering work and To Do list.
+##  Hi, I'm Ben Firstenberg, this page details my software engineering work and to do list.
 
 ### Current Focus – Foundations First
 
