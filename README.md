@@ -1,14 +1,47 @@
-## 👋 Hi, I'm Ben Firstenberg
+##  Hi, I'm Ben Firstenberg, this page details my software engineering work and To Do list.
 
-I'm currently focused on deepening my understanding of core programming principles, with an emphasis on:
+### Current Focus – Foundations First
 
-- Software engineering fundamentals  
-- Data structures and algorithms  
-- Framework documentation  
-- In-depth tutorials and deployment practices  
-- Cloud services and DevOps fundamentals  
+I'm currently engaged in a focused, in-depth study of modern frameworks to strengthen my core engineering skills. My current learning path includes:
 
-My learning is hands-on, and I’ve built several projects that reflect my curiosity and evolving skill set:
+- **Django (complete)** and **Node.js** for backend web development  
+- **React Native** for cross-platform mobile development  
+- **PyTorch (in progress)** for foundational machine learning and deep learning  
+
+In the past, I’ve often jumped straight into hands-on projects (see below)—because that’s how I learn best at first. Once I’ve built a working mental model through experimentation, I find it helpful to step back and study the details in a structured way. This two-step approach helps me reinforce and refine what I’ve learned.
+
+For each framework, my process is:
+
+- Complete tutorials and study official documentation  
+- Build 2–3 focused, "simple" projects to internalize key concepts  
+- Deploy each project to the cloud to gain experience with real-world infrastructure, DevOps workflows, and deployment pipelines  
+
+This approach allows me to both deepen my technical expertise and prepare for building scalable, production-grade systems.
+
+---
+
+### Algorithm Practice – Building Problem-Solving Intuition
+
+In parallel, I’m studying data structures and algorithms through structured LeetCode practice. My goal is to build strong problem-solving intuition and fluency with key patterns.
+
+Completed categories:
+
+- **Arrays & Strings**: Two pointers, sliding window, binary search, prefix sum  
+- **Hashmaps**: Frequency counters, sets  
+
+Currently studying:
+
+- **Graphs**: DFS, BFS  
+
+Next up:
+
+- **Stacks & Queues**  
+- And beyond—we’ll see what the journey brings
+
+---
+
+As for my existing work, I’ve built several projects that reflect my curiosity and evolving skill set:
+
 
 ---
 
@@ -50,20 +83,3 @@ You can find these and more in my public repositories.
 ---
 
 Thanks for visiting! I'm always learning and looking for opportunities to collaborate or grow. Feel free to explore my work or reach out.
-
-
-
-<!--
-**thebenfirsty/thebenfirsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
