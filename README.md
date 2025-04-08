@@ -77,6 +77,9 @@ Notable projects from these courses include:
 - A playable implementation of **Euchre**
 - A **Seam Carving** algorithm for intelligent image resizing  
 - A **Machine Learning** classifier using binary search trees
+- **Flight Path Simulations** using different computational methods of forward integration over time
+- **Simulation of COVID Particles in a class room** including modeling particles originating from various initial positions, and with both predictable ambient airflow and random, chaotic airflow.
+- **Finite Element Analysis of Water flowing through a channel** 
 
 You can find these and more in my public repositories.
 
