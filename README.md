@@ -27,16 +27,17 @@ In parallel, I’m studying data structures and algorithms through structured Le
 Completed categories:
 
 - **Arrays & Strings**: Two pointers, sliding window, binary search, prefix sum  
-- **Hashmaps**: Frequency counters, sets  
+- **Hashmaps**: Frequency counters, sets
+- **Stacks & Queues** Implementing minStack, number of recent calls  
 
 Currently studying:
 
 - **Graphs**: DFS, BFS  
 
 Next up:
-
-- **Stacks & Queues**  
-- And beyond—we’ll see what the journey brings
+- **Recursion**
+- **Dynamic Programming**
+- **Greedy Algoritms**
 
 ---
 
