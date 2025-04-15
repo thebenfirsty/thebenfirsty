@@ -4,9 +4,9 @@
 
 I'm currently engaged in a focused, in-depth study of modern frameworks to strengthen my core engineering skills. My current learning path includes:
 
-- **Django (complete)** and **Node.js** for backend web development  
+- **Django (in progress)** and **Node.js** for backend web development  
 - **React Native** for cross-platform mobile development  
-- **PyTorch (in progress)** for foundational machine learning and deep learning  
+- **PyTorch (upcoming)** for foundational machine learning and deep learning  
 
 In the past, I’ve often jumped straight into hands-on projects (see below)—because that’s how I learn best at first. Once I’ve built a working mental model through experimentation, I find it helpful to step back and study the details in a structured way. This two-step approach helps me reinforce and refine what I’ve learned.
 
@@ -14,7 +14,10 @@ For each framework, my process is:
 
 - Complete tutorials and study official documentation  
 - Build 2–3 focused, "simple" projects to internalize key concepts  
-- Deploy each project to the cloud to gain experience with real-world infrastructure, DevOps workflows, and deployment pipelines  
+- Deploy each project to the cloud to gain experience with real-world infrastructure, DevOps workflows, and deployment pipelines
+
+View my latest deployment at: https://djangopoll-benfirsty.uc.r.appspot.com/
+(Note: for right now it's just a Welcome page, as I'm working on improving the app's functionality)
 
 This approach allows me to both deepen my technical expertise and prepare for building scalable, production-grade systems.
 
